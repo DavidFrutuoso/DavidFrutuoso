@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 _________________  
   
 
- - 👨‍💻 Studying at the unique & wonderfull < Academia de Código />   
+ - 👨‍💻 **Studying at the unique && wonderfull < Academia de Código />**   
   
 
 - 🌱 I’m currently learning Java    
