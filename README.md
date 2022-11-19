@@ -1,9 +1,3 @@
-<!---
-DavidFrutuoso/DavidFrutuoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
