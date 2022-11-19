@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Frutuoso</h1>
 <h3 align="center">A passionate fullStack Developer from Portugal</h3>
 
+
 - 🌱 I’m currently learning **Studying at the unique && wonderfull < Academia de Código />**
 
 - 📫 How to reach me **davidemanuel21@gmail.com**
