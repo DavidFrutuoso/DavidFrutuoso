@@ -9,16 +9,16 @@
 _________________  
   
 
- - 👨‍💻 **Studying at the unique && wonderfull < Academia de Código />**   
+ - 👨‍💻 Studying at the unique && wonderfull **< Academia de Código />**   
   
 
 - 🌱 I’m currently learning **Java**    
   
 
-- ❓ Ask me about anything related to games, series, movies and football 🕺🏻  
+- ❓ Ask me about anything related to games, series, movies and **football** 🕺🏻  
   
 
-- ☕ In my free time I like: Playing Football 🕺🏻 Playing Games 🎮 and doing Udemy  
+- ☕ In my free time I like: Playing Football 🕺🏻 Playing Games 🎮 and doing **Udemy** 
   
 
 - ⚡ Fun fact: I use tabs over spaces, and **I love Sushi**
