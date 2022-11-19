@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
   
 
-### <div align="center">I'm David Frutuoso, a full-time Fullstack Developer  🚀</div>  
+### <div align="center">I'm David Frutuoso, A passionate fullStack Developer from Portugal 🚀</div>  
   
 
 _________________  
@@ -47,7 +47,7 @@ _________________
 - ☕ In my free time I like: Playing Football 🕺🏻 Playing Games 🎮 and doing Udemy  
   
 
-- ⚡ Fun fact: I use tabs over spaces, and i love sushi  
+- ⚡ Fun fact: I use tabs over spaces, and **I love Sushi**
   
 
 <br/>  
