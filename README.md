@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Frutuoso</h1>
 <h3 align="center">A passionate fullStack Developer from Portugal</h3>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status]([https://github-readme-stats.vercel.app/](https://github.com/DavidFrutuoso/DavidFrutuoso/)api?username=karanalpe&show_icons=true)
 
 - 🌱 Studying **Studying at the unique && wonderfull < Academia de Código />**
 
