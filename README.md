@@ -80,17 +80,14 @@ _________________
 <a href="https://github.com/DavidFrutuoso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/david-frutuoso" target="_blank">
+<a href="https://www.linkedin.com/in/david-frutuoso" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/david.frutuoso/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/DavidFrutuoso" target="_blank">
+<a href="https://gitlab.com/DavidFrutuoso" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100009030241428" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
