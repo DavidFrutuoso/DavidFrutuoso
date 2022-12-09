@@ -12,7 +12,7 @@ _________________
  - 👨‍💻 Studying at the unique && wonderfull **< Academia de Código />**   
   
 
-- 🌱 I’m currently learning **Java ** &&  **JS**    
+- 🌱 I’m currently learning **Java**   &&  **JS**    
   
 
 - ❓ Ask me about anything related to games, series, movies and **football** 🕺🏻  
