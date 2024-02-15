@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David Frutuoso, A passionate fullStack Developer from Portugal 🚀</div>  
+### <div align="center">I'm David Frutuoso, A passionate Back-End Developer from Portugal 🚀</div>  
   
 
 _________________  
@@ -12,7 +12,7 @@ _________________
  - 👨‍💻 Studying at the unique && wonderfull **< Academia de Código />**   
   
 
-- 🌱 I’m currently learning **Java**   &&  **JS**    
+- 🌱 I’m currently learning **Java**  ++  **JS**  ++  **C#**      
   
 
 - ❓ Ask me about anything related to games, series, movies and **football** 🕺🏻  
